@@ -39,10 +39,10 @@ Para resolver o problema, decidi criar um roteiro teórico antes de fazer o algo
 6. Mostrar a imagem sem solo, ou seja, apenas com a parte verde.
 
 Assim, ao fim do processo de definição da solução e do processo de aprendizado, o código resultante que melhor atende o problema foi o seguinte:
-![Arquivo first_solution](https://imgur.com/dQBNPiA "Arquivo first_solution")
+![Arquivo first_solution](https://i.imgur.com/dQBNPiA.png "Arquivo first_solution")
 
 Uma vez que o problema foi resolvido, passei a buscar uma forma de automatizar a solução, ou seja, uma forma de rodar todas as imagens da pasta de imagens de uma só vez para agilizar o processo. Utilizei o módulo os.path para conseguir a lista com os nomes das imagens da pasta e dessa maneira criar um for que modifique e mostre cada imagem da pasta. Esse foi o código resultante dessa abordagem:
-![Arquivo final_solution](https://imgur.com/Ew1sILl "Arquivo final_solution")
+![Arquivo final_solution](https://i.imgur.com/Ew1sILl.png "Arquivo final_solution")
 
 
 É importante ressaltar que as variáveis foram nomeadas em inglês por escolha própria para seguir um padrão e melhorar a visualização e entendimento do código uma vez que as funções são em inglês.
@@ -50,7 +50,7 @@ Uma vez que o problema foi resolvido, passei a buscar uma forma de automatizar a
 ## Resultado Final
 
 Utilizando o código mostrado anteriormente, foram obtidas as imagens contendo apenas as plantações. Veja o antes e depois.
-![Resultado Final](https://imgur.com/i7Zof7s "Resultado Final")
+![Resultado Final](https://i.imgur.com/i7Zof7s.png "Resultado Final")
 
 ## Conclusão
 
