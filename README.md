@@ -1,6 +1,6 @@
 # ImageSegmentation
 Solução de segmentação de imagens voltado para a remoção de solo em imagens aéreas obtidas por drones de plantações de soja. Processo seletivo da empresa CROMAI.
-**Obs:** acesse o arquivo "solução.txt" para ver como o case foi resolvido e quais foram os métodos e tecnologias usadas.
+**Obs:** acesse o arquivo "relatorio_final.txt" para conferir mais informações sobre como o case foi resolvido e quais foram os métodos e tecnologias usadas.
 
 ## Sobre o desafio proposto pela CROMAI:
 ### Contexto
