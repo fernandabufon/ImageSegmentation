@@ -1,6 +1,7 @@
 # Relatório Final - Processo Seletivo CROMAI
 
 **Autor(a):** Fernanda Bufon Farber
+
 **Empresa responsável pelo case:** Cromai
 
 ## Resumo do Caso
